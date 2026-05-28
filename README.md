@@ -4,9 +4,11 @@ Aplicación web
 Ejercicios de Aplicaciones Web con Python3, SQLite3 y web.py
 
 1. Crear un entorno virtual
-Crear el entorno virtual para la instalación de las librerías necesarias para el proyecto.
+
+2. Crear el entorno virtual para la instalación de las librerías necesarias para el proyecto.
 
 python3 -m venv .venv
+
 2. Crear el archivo .gitignore
 Cree el archivo .gitignore para configurar los recursos que no necesitamos que se sincronicen con el reportitorio.
 
